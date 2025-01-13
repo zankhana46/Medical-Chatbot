@@ -4,10 +4,3 @@ streamlit==1.30.0
 pillow
 streamlit-option-menu
 beyondllm
-pandas>=2.1
-pydantic>=2.7.0
-ydata-profiling==4.11.0
-lifelines>=0.29.0
-langchain
-PyPDF2
-pdfplumber
