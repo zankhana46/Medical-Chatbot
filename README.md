@@ -4,6 +4,8 @@
 
 ## Overview
 **Swasthya Chatbot** is a Streamlit-based application designed to facilitate conversations with a medical AI model called **DocBot**. 
+https://medical-chatbot-404.streamlit.app/
+Use this link for demo.
 
 ## Features
 - **DocBot**: Engage in text-based medical conversations. Ask questions related to health and receive answers from a highly trained medical AI.
