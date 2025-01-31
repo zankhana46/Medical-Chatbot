@@ -3,4 +3,3 @@ google-generativeai
 streamlit==1.30.0
 pillow
 streamlit-option-menu
-beyondllm
