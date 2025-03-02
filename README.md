@@ -14,8 +14,8 @@ Use this link for demo.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/swasthya-chatbot.git
-   cd swasthya-chatbot
+   git clone https://github.com/zankhana46/Medical-Chatbot.git
+   cd smedical-chatbot
 Install the required dependencies:
 bash
 Copy code
