@@ -15,7 +15,7 @@ Use this link for demo.
 1. Clone the repository:
    ```bash
    git clone https://github.com/zankhana46/Medical-Chatbot.git
-   cd smedical-chatbot
+   cd medical-chatbot
 Install the required dependencies:
 bash
 Copy code
